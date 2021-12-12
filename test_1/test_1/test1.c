@@ -12,13 +12,13 @@
 //	printf("%d\n", sizeof(double));//4
 //	return 0;
 //}
-int main() {
-	int a = 0;
-	int b = 0;
-	int sum = 0;
-	scanf("%d%d",&a,&b);  //输入时中间加
-	sum = a + b;
-	printf("sum=%d\n",sum);
-
-	return 0;
-}
+//int main() {
+//	int a = 0;
+//	int b = 0;
+//	int sum = 0;
+//	scanf("%d%d",&a,&b);  //输入时中间加空格或回车
+//	sum = a + b;
+//	printf("sum=%d\n",sum);
+//
+//	return 0;
+//}
